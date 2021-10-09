@@ -15,3 +15,6 @@ This goal was achieved by following these steps: <br/>
 ## Screenshot </br> </br>
 
 ![screencapture-file-Users-ashtonbrugh-Desktop-projects-Homework-Assn-1-urban-octo-telegram-Develop-index-html-2021-10-07-12_17_04](https://user-images.githubusercontent.com/91156023/136424097-c5d33396-f910-45ff-b966-7273705d65e6.jpg)
+
+## URL  <br/>
+https://ashtonbrugh.github.io/
